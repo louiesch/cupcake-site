@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+a {
+  color: indigo;
+}
+
+body {
+  background-image: "img/glitterbg.jpg";
+
+}
